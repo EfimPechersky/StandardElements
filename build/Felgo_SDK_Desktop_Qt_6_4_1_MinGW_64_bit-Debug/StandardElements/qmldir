@@ -1,0 +1,4 @@
+module StandardElements
+typeinfo appStandardElements.qmltypes
+prefer :/
+
